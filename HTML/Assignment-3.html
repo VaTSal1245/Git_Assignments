@@ -1,0 +1,108 @@
+<html>
+    <head></head>
+    <body>
+        <form action="submit.html" method="post">
+            <fieldset> 
+                <legend>Information</legend>
+            <div>
+                <label for="">Full Name</label>
+                <input type="text" name="name" id="1" placeholder="FirstName_LastName" required>
+            </div>
+            <div>
+                <label for="">About Yourself</label>
+                <textarea name="About" id="2" cols="50" rows="5"></textarea>
+            </div>
+            <div>
+                <label for="">Email Address</label>
+                <input type="email" name="email" id="3" placeholder="abc@gmail.com" required>
+            </div>
+            <div>
+                <label for="">Password</label>
+                <input type="password" name="password" id="4" placeholder="Atleast 8 characters" required>
+            </div>
+            <div>
+                <label for="">Phone Number</label>
+                <input type="tel" name="Phone-Number" id="5" maxlength="10" pattern="+91-9876543210">
+            </div>
+            <div>
+                <label for="">Website</label>
+                <input type="url" name="url" id="6" placeholder="for e.g: www.google.com">
+            </div>
+            <br>
+            <div>
+                <label for="">Skills</label><br>
+                <input type="checkbox" name="checkbox" id="7" checked>HTML
+                <input type="checkbox" name="checkbox" id="8">CSS
+                <input type="checkbox" name="checkbox" id="9">JavaScript
+            </div>
+            <div>
+                <label for="">Gender</label>
+                <input type="radio" name="gender" id="10" checked>Male
+                <input type="radio" name="gender" id="11">Female
+            </div>
+            <div><br>
+                <label for="">Preferred Color</label>
+                <input type="color" name="colour" id="12" value="#741002">
+            </div>
+            <div>
+                <label for="">Experience</label>
+                <input type="number" name="Exp" id="13" step="2" min="0" max="10">
+            </div>
+
+            <div>
+                <label for="">Search Interest</label>
+                <input type="search" name="search" id="14">
+            </div>
+
+            <br>
+            <div>
+                <label for="">Date of Birth</label>
+                <input type="date" name="dob" id="15" max="2005-12-31">
+            </div>
+            <div>
+                <label for="">Available Time</label>
+                <input type="time" name="Availtime" id="16" min="09:00" max="18:30">
+            </div>
+            <div>
+                <label for="">Joining Month</label>
+                <input type="month" name="JoinMon" id="17"  value="2026-01">
+            </div>
+            <div>
+                <label for="">Training Week</label>
+                <input type="week" name="Training-Week" id="18" value="7">
+            </div>
+            <div>
+                <label for="">Interview Slot</label>
+                <input type="time" name="Interview-slot" id="19">
+            </div>
+            <br>
+            <div>
+                <label for="">Technology</label>
+                <select name="Technology">
+                    <option value="select" disabled selected>select</option>
+                    <option value=".NET">.NET</option>
+                    <option value=".NET">Angular</option>
+                    <option value=".NET">Java</option>
+                    <option value=".NET">ReactJS</option>
+                    <option value=".NET">QA</option>
+                </select>
+            </div>
+            <div>
+                <label for="">Resume Upload</label>
+                <input type="file" name="Uploadtion" id="21">
+            </div>
+            <br>
+            <div>
+                <label for="">Hidden</label>
+                <input type="hidden" name="Hidden" id="22" value="12345678">
+            </div>
+            <br>
+            <div>
+                <input type="submit" value="Submit" id="23">
+                <input type="reset" value="Reset" id="24">
+                <input type="button" value="Click">
+            </div>
+            </fieldset>
+        </form>
+    </body>
+</html>
