@@ -1,0 +1,45 @@
+body{
+    background-color:rgb(162, 218, 233)
+}
+
+#f1{
+    font-family: 'Oswald', sans-serif;
+    font-style: italic;
+    font-size: 20px;
+}
+
+#f2{
+    color: red;
+    text-decoration: overline;
+    text-decoration-color: rgb(57, 143, 57);
+    text-transform: lowercase;
+    text-indent: 20px;
+    word-spacing: 20px;
+    letter-spacing: 7px;
+    text-shadow: 3px 2px 8px rgba(32, 104, 41, 0.842);
+}
+
+.design{
+    width: 220px;
+    height: 20px;
+}
+
+#d1{
+    border: 3px solid black;
+}
+
+#d2{
+    border: 3px solid black;
+    overflow: hidden;
+}
+
+#d3{
+    border: 3px solid black;
+    overflow: scroll;
+}
+
+#d4{
+    border: 3px solid black;
+    height: 90px;
+    overflow: auto;
+}
