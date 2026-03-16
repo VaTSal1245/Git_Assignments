@@ -1,0 +1,149 @@
+*{
+    background-color: rgb(199, 199, 254);
+}
+
+.task1{
+    display: flex;
+    gap: 15px;
+}
+.course{
+    border: 2px rgb(65, 186, 230) solid;
+    border-radius: 20px;
+    background-color: rgb(65, 186, 230);
+    color: aliceblue;
+    padding: 6px;
+    font-size: small;
+}
+
+.task2{
+    margin-top: 10px;
+    border: 2px solid aliceblue;
+    background-color: aliceblue;
+    border-radius: 8px;
+}
+
+#t2{
+    background-color: aliceblue;
+}
+
+#photo{
+    width: 100px;
+    height: 100px;
+    margin-right: 10px;
+    border: 0px;
+    border-radius: 7px;
+    float: left;
+}
+/* #logo{
+    width: 100px;
+    height: 100px;
+    display: flex;
+} */
+
+
+/* 
+    border: 2px solid rgb(118, 118, 238);
+    border-radius: 9px;
+    background-color: rgb(118, 118, 238); */
+.task3{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgb(111, 111, 220);
+    border: 12px solid rgb(111, 111, 220);
+    border-radius: 10px;
+}
+
+.logo{
+    color: white;
+    background-color: rgb(111, 111, 220);
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.items{
+    display: flex;
+    gap: 20px;
+    background-color: rgb(111, 111, 220);
+}
+
+.comp{
+    color: white;
+    background-color: rgb(111, 111, 220);
+}
+
+a{
+    background-color: rgb(111, 111, 220);
+}
+
+a:hover{
+    background-color: rgb(111, 111, 220);
+    color: aliceblue; 
+}
+
+.course-cards{
+    display: grid; 
+    /* grid-template-columns: 200px 200px 200px; */
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 100px 100px;
+    gap: 20px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 8px;
+    padding: 10px;
+    margin-top: 20px;
+}
+
+.item{
+    border: 2px solid aliceblue;
+    padding: 30px;
+    margin: 10px;
+    background-color: aliceblue;
+    border-radius: 8px;
+    text-align: center;
+}
+
+.footer{
+    display: flex;
+    border: 2px solid rgb(67, 67, 215);
+    background-color: rgb(67, 67, 215);
+    border-radius: 7px;
+    padding: 10px;
+    justify-content: space-between;
+}
+
+.comps-1{
+    background-color: rgb(67, 67, 215);
+    font-weight: bold;
+    color: whitesmoke;
+}
+
+.comps-2{
+    display: flex;
+    gap: 15px;
+    background-color: rgb(67, 67, 215);
+    font-size: large;
+    color: whitesmoke;   
+}
+
+.media-query{
+    margin-top: 10px;
+    /* width: 600px;
+    height: 100px; */
+    padding: 30px;
+    color: white;
+    border: 2px solid rgb(94, 94, 141);
+    border-radius: 8px;
+    background-color: rgb(94, 94, 141);
+    text-align: center;
+}
+
+@media (max-width: 768px){
+    .media-query{
+        border: 2px solid rgb(101, 179, 187);
+        background-color: rgb(101, 179, 187);
+    }
+    .course-cards{
+        grid-template-columns: 1fr 1fr;
+    }
+}
