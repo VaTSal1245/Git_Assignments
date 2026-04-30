@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\source\\repos\\Routing_MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1E38D3-28C6-4848-AFDD-5CF96A33A715}|Routing_MVC\\Routing_MVC.csproj|c:\\users\\admin\\source\\repos\\routing_mvc\\routing_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1E38D3-28C6-4848-AFDD-5CF96A33A715}|Routing_MVC\\Routing_MVC.csproj|solutionrelative:routing_mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1E38D3-28C6-4848-AFDD-5CF96A33A715}|Routing_MVC\\Routing_MVC.csproj|c:\\users\\admin\\source\\repos\\routing_mvc\\routing_mvc\\models\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1E38D3-28C6-4848-AFDD-5CF96A33A715}|Routing_MVC\\Routing_MVC.csproj|solutionrelative:routing_mvc\\models\\dataaccesslayer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1E38D3-28C6-4848-AFDD-5CF96A33A715}|Routing_MVC\\Routing_MVC.csproj|c:\\users\\admin\\source\\repos\\routing_mvc\\routing_mvc\\models\\icourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1E38D3-28C6-4848-AFDD-5CF96A33A715}|Routing_MVC\\Routing_MVC.csproj|solutionrelative:routing_mvc\\models\\icourses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1E38D3-28C6-4848-AFDD-5CF96A33A715}|Routing_MVC\\Routing_MVC.csproj|c:\\users\\admin\\source\\repos\\routing_mvc\\routing_mvc\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1E38D3-28C6-4848-AFDD-5CF96A33A715}|Routing_MVC\\Routing_MVC.csproj|solutionrelative:routing_mvc\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1E38D3-28C6-4848-AFDD-5CF96A33A715}|Routing_MVC\\Routing_MVC.csproj|c:\\users\\admin\\source\\repos\\routing_mvc\\routing_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1E38D3-28C6-4848-AFDD-5CF96A33A715}|Routing_MVC\\Routing_MVC.csproj|solutionrelative:routing_mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1E38D3-28C6-4848-AFDD-5CF96A33A715}|Routing_MVC\\Routing_MVC.csproj|c:\\users\\admin\\source\\repos\\routing_mvc\\routing_mvc\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A1E38D3-28C6-4848-AFDD-5CF96A33A715}|Routing_MVC\\Routing_MVC.csproj|solutionrelative:routing_mvc\\models\\courses.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A1E38D3-28C6-4848-AFDD-5CF96A33A715}|Routing_MVC\\Routing_MVC.csproj|c:\\users\\admin\\source\\repos\\routing_mvc\\routing_mvc\\views\\courses\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3A1E38D3-28C6-4848-AFDD-5CF96A33A715}|Routing_MVC\\Routing_MVC.csproj|solutionrelative:routing_mvc\\views\\courses\\index2.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Routing_MVC\\Routing_MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Routing_MVC\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Routing_MVC\\Routing_MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Routing_MVC\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T12:40:10.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Courses.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Routing_MVC\\Routing_MVC\\Models\\Courses.cs",
+              "RelativeDocumentMoniker": "Routing_MVC\\Models\\Courses.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Routing_MVC\\Routing_MVC\\Models\\Courses.cs",
+              "RelativeToolTip": "Routing_MVC\\Models\\Courses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T12:40:06.733Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ICourses.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Routing_MVC\\Routing_MVC\\Models\\ICourses.cs",
+              "RelativeDocumentMoniker": "Routing_MVC\\Models\\ICourses.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Routing_MVC\\Routing_MVC\\Models\\ICourses.cs",
+              "RelativeToolTip": "Routing_MVC\\Models\\ICourses.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T12:39:57.655Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index2.cshtml",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Routing_MVC\\Routing_MVC\\Views\\Courses\\Index2.cshtml",
+              "RelativeDocumentMoniker": "Routing_MVC\\Views\\Courses\\Index2.cshtml",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Routing_MVC\\Routing_MVC\\Views\\Courses\\Index2.cshtml",
+              "RelativeToolTip": "Routing_MVC\\Views\\Courses\\Index2.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-04-29T12:31:43.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Routing_MVC\\Routing_MVC\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Routing_MVC\\Controllers\\CoursesController.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Routing_MVC\\Routing_MVC\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Routing_MVC\\Controllers\\CoursesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T12:21:46.524Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Routing_MVC\\Routing_MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Routing_MVC\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Routing_MVC\\Routing_MVC\\Program.cs*",
+              "RelativeToolTip": "Routing_MVC\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T12:12:42.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataAccessLayer.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\source\\repos\\Routing_MVC\\Routing_MVC\\Models\\DataAccessLayer.cs",
+              "RelativeDocumentMoniker": "Routing_MVC\\Models\\DataAccessLayer.cs",
+              "ToolTip": "C:\\Users\\Admin\\source\\repos\\Routing_MVC\\Routing_MVC\\Models\\DataAccessLayer.cs*",
+              "RelativeToolTip": "Routing_MVC\\Models\\DataAccessLayer.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-29T12:08:05.818Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
